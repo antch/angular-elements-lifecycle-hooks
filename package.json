@@ -1,0 +1,49 @@
+{
+  "name": "angular-elements-official-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "6.5.4",
+    "core-js": "2.6.5",
+    "zone.js": "0.10.3",
+    "@angular/animations": "https://656818-24195339-gh.circle-artifacts.com/0/angular/animations-pr36114-77ea12e04c.tgz",
+    "@angular/core": "https://656818-24195339-gh.circle-artifacts.com/0/angular/core-pr36114-77ea12e04c.tgz",
+    "@angular/forms": "https://656818-24195339-gh.circle-artifacts.com/0/angular/forms-pr36114-77ea12e04c.tgz",
+    "@angular/common": "https://656818-24195339-gh.circle-artifacts.com/0/angular/common-pr36114-77ea12e04c.tgz",
+    "@angular/router": "https://656818-24195339-gh.circle-artifacts.com/0/angular/router-pr36114-77ea12e04c.tgz",
+    "@angular/compiler": "https://656818-24195339-gh.circle-artifacts.com/0/angular/compiler-pr36114-77ea12e04c.tgz",
+    "@angular/elements": "https://656818-24195339-gh.circle-artifacts.com/0/angular/elements-pr36114-77ea12e04c.tgz",
+    "@angular/platform-browser": "https://656818-24195339-gh.circle-artifacts.com/0/angular/platform-browser-pr36114-77ea12e04c.tgz",
+    "@webcomponents/custom-elements": "1.4.1",
+    "@angular/platform-browser-dynamic": "https://656818-24195339-gh.circle-artifacts.com/0/angular/platform-browser-dynamic-pr36114-77ea12e04c.tgz"
+  },
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~0.900.6",
+    "@angular/cli": "~9.0.6",
+    "@angular/compiler-cli": "https://656818-24195339-gh.circle-artifacts.com/0/angular/compiler-cli-pr36114-77ea12e04c.tgz",
+    "@angular/language-service": "https://656818-24195339-gh.circle-artifacts.com/0/angular/language-service-pr36114-77ea12e04c.tgz",
+    "@types/node": "~10.14.6",
+    "@types/jasmine": "~3.3.12",
+    "@types/jasminewd2": "~2.0.6",
+    "codelyzer": "~5.2.1",
+    "jasmine-core": "~3.3.0",
+    "jasmine-spec-reporter": "~4.2.1",
+    "karma": "~3.1.4",
+    "karma-chrome-launcher": "~2.2.0",
+    "karma-coverage-istanbul-reporter": "~2.0.5",
+    "karma-jasmine": "~2.0.1",
+    "karma-jasmine-html-reporter": "^1.4.2",
+    "protractor": "~5.4.2",
+    "ts-node": "~7.0.1",
+    "tslint": "~5.20.1",
+    "typescript": "~3.6.5"
+  }
+}
